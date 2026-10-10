@@ -1,0 +1,1 @@
+const r="/garage17-autoservice/",a=!0,s=r.replace(/\/$/,"");function e(t){return!t||!t.startsWith("/")||t.startsWith("//")||s&&t.startsWith(s+"/")?t:s+t}const o=(t="")=>s+t||"/";export{a as S,e as a,o as r};
